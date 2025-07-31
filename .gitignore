@@ -209,3 +209,10 @@ __marimo__/
 # Ignore database files
 SP500.db 
 anaconda_projects/db/
+
+# Anaconda / Conda project metadata
+anaconda-projects/
+.anaconda/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
